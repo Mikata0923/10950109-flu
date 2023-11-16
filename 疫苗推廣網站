@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>流感大肆虐</title>
+</head>
+<body>
+    <!DOCTYPE html>
+    <html lang="zh-TW">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>流感疫苗安全嗎？會有什麼副作用？</title>
+        <style>
+            /* 在這裡加入你的 CSS 樣式 */
+            body {
+                background-color: #f2f2f2; 
+            }
+    
+        
+            header {
+                background-color: #333; 
+                color: white; 
+                padding: 10px; 
+            }
+    
+            /* ... 可以繼續添加其他樣式 */
+        </style>
+    </head>
+    <body class="container">
+    
+        <header class="mt-5">
+            <h1 class="text-center">流感疫苗安全嗎？會有什麼副作用？</h1>
+        </header>
+    
+        <section class="mt-4">
+            <h2>1. 注射部位疼痛、紅腫</h2>
+            <p>少數的人則會有全身性的輕微反應，如：發燒、頭痛、肌肉酸痛、噁心、皮膚搔癢、蕁麻疹或紅疹等，一般會在發生後1-2天內自然恢復。</p>
+        </section>
+    
+        <section class="mt-4">
+            <h2>2. 嚴重的副作用</h2>
+            <p>如立即型過敏反應，甚至過敏性休克等不適情況（臨床表現包括呼吸困難、聲音沙啞、氣喘、眼睛或嘴唇腫脹、頭昏、心跳加速等），發生機率非常低，若不幸發生，通常於接種後幾分鐘至幾小時內即出現症狀。</p>
+        </section>
+    
+        <section class="mt-4">
+            <h2>3. 其他曾被零星報告過之不良事件</h2>
+            <p>包括神經系統症狀（如：臂神經叢炎、顏面神經麻痺、熱痙攣、腦脊髓炎、以對稱性神經麻痺為表現的 Guillain-Barré 症候群等）和血液系統症狀（如：暫時性血小板低下，臨床表現包括皮膚出現紫斑或出血點、出血時不易止血等）。</p>
+        </section>
+    
+        <footer class="mt-4">
+            <p class="text-muted">
+                附註：除了1976年豬流感疫苗、2009年H1N1新型流感疫苗與部分季節性流感疫苗經流行病學研究證實與Guillain-Barré症候群可能相關外，少有確切統計數據證明其他不良事件與接種流感疫苗有關。
+            </p>
+        </footer>
+    
+    </body>
+    </html>
+    
+</body>
+</html>
